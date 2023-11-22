@@ -29,6 +29,10 @@ tap homebrew/cask
 cask fig
 cask git-credential-manager
 cask iterm2
+cask meetingbar
+
+tap heroku/brew
+brew heroku
 
 tap rcmdnk/file
 brew brew-file
